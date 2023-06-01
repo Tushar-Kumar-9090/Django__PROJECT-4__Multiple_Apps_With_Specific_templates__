@@ -18,3 +18,6 @@ Here We Create
         
         
 -->   2 url mapping created in project/urls.py folder by using include function PRIMARY SUFFIX
+
+
+-->    No HTML Pages
